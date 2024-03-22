@@ -31,6 +31,6 @@ public class Main {
 
     // Saída
     // System.out.println("Cliente servido? " + clienteservido+ "\n");
-    // System.out.println("Cliente servido? " + clienteservido);
+    
   }
 }
